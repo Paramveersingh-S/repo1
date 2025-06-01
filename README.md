@@ -1,6 +1,3 @@
-# CarePulse
-
-> A healthcare app for managing patients' appointments with SMS notification.
 
 ## Built With
 
@@ -41,28 +38,6 @@ To get a local copy up and running follow these simple example steps.
 - For the demo site the `NEXT_PUBLIC_ADMIN_PASSKEY=123456`
 - Run `npm run dev` to start the development server
 - Open your browser and go to `http://localhost:3000/`
-
-## Author
-
-👤 **Yuriy Chamkoriyski**
-
-- GitHub: [@Hombre2014](https://github.com/Hombre2014)
-- Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
-- LinkedIn: [axebit](https://linkedin.com/in/axebit)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Hombre2014/carepulse/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-Thanks to JavaScript Mastery for inspirational [video](https://www.youtube.com/watch?v=lEflo_sc82g).
 
 ## 📝 License
 
